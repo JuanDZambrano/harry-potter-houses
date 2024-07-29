@@ -1,4 +1,4 @@
-Hogwarts Houses
+# Hogwarts Houses
 
 Welcome Wizzard! 👨‍🎤 This app will help you find all the relevant information of the houses in Hogwarts School of Witchcraft and Wizardry
 
